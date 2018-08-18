@@ -1,0 +1,53 @@
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+section {
+    background-color: lightskyblue;
+    margin: 1px;
+    width: 23%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+h1{
+    background-color: coral;
+    font-size: 36px;
+    width: 100%;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    text-align: center;
+    }
+
+aside {
+    background-color: lightslategrey;
+    margin: 1px;
+    width: 73%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+h2 {
+    font-size: 20px;
+    color: cadetblue;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+a {
+    color: cadetblue;
+}
+
+
+.left {
+    display: block;
+    width: 100%;
+    margin: 1px
+  }
+
+  h3 {
+      font-size: 24px;
+      font-weight: 800;
+      text-decoration: underline;
+  }
